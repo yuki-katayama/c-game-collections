@@ -32,5 +32,5 @@ This is a memory game of alphabets and numbers.
 ### Memory_Alphabet.c
 ![pic-1](https://i.gyazo.com/66b3d65bf7d10d922b70c93123c0fb1e.png)
 ### Memory_Number.c
-![pic-2](https://i.gyazo.com/66b3d65bf7d10d922b70c93123c0fb1e.png)
+![pic-2](https://i.gyazo.com/48eb1266156cb80d37a55fd810fa3749.png)
 
