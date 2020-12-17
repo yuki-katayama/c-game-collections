@@ -29,3 +29,9 @@ A calendar function has been implemented to take leap years, etc., into account.
 
 ### How to compile
 	gcc -Wextra -Werror -Wall Calender.c || Advanced_Calender.c
+
+## PlayPage
+### Calender.c
+![pic-1](https://i.gyazo.com/89e0aaad9f7d3ac17327698f29f717b9.png)
+### Advanced_Calender.c
+![pic-2](https://i.gyazo.com/3da01291ceb04bf8233619cf7c5a287b.png)
